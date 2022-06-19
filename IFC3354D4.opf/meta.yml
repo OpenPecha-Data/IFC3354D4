@@ -1,0 +1,567 @@
+id: IFC3354D4
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T17:45:45.831742'
+last_modified: '2022-06-19T17:45:45.831752'
+parser: null
+source_metadata:
+  title: Termas
+  language: en
+  description: 'A collection of spiritual treasures or terma (gter ma), which were
+    reportedly hidden by Guru Padmasambhava and Yeshe Tsogyal, either in the earth
+    and in the minds of disciples, and then revealed at the appropriate time by ‘treasure
+    revealers’ or tertön (gter ston):'
+  volume:
+    fCF45:
+      title: Daily Practice of Vajrakīla
+      base_file: fCF45.txt
+      order: 1
+      parent: Apang Tertön
+    fB8FC:
+      title: 'The New Glorious Bestower of Immortality: A Long-Life Practice and Empowerment
+        that Unites the Oral, Treasure and Visionary Teachings'
+      base_file: fB8FC.txt
+      order: 2
+      parent: Chöje Lingpa
+    fBF48:
+      title: The Sādhana and Empowerment for the Extremely Close Lineage of the Long-Life
+        Practice that Unites the Oral, Treasure and Visionary Teachings
+      base_file: fBF48.txt
+      order: 3
+      parent: Chöje Lingpa
+    f777D:
+      title: The Aspiration of the Vajradhātu Maṇḍala
+      base_file: f777D.txt
+      order: 4
+      parent: Chokgyur Dechen Lingpa
+    fBBEA:
+      title: 'The Concise Cleansing Offering from The Guru’s Heart Practice: Dispelling
+        All Obstacles on the Path'
+      base_file: fBBEA.txt
+      order: 5
+      parent: Chokgyur Dechen Lingpa
+    f3E96:
+      title: The Lament of Rudra
+      base_file: f3E96.txt
+      order: 6
+      parent: Chokgyur Dechen Lingpa
+    f0C95:
+      title: The Prayer Which Removes All Obstacles from the Path (Barché Lamsel)
+      base_file: f0C95.txt
+      order: 7
+      parent: Chokgyur Dechen Lingpa
+    fA5DA:
+      title: The Prayer in Six Vajra Lines
+      base_file: fA5DA.txt
+      order: 8
+      parent: Chokgyur Dechen Lingpa
+    f4CBB:
+      title: 'The Prayer to Guru Rinpoche that Spontaneously Fulfils All Wishes (Sampa
+        Lhundrupma) from The Guru’s Heart Practice: The Wish-Fulfilling Jewel'
+      base_file: f4CBB.txt
+      order: 9
+      parent: Chokgyur Dechen Lingpa
+    fB3B9:
+      title: The Testament Prayer to Orgyen Rinpoche
+      base_file: fB3B9.txt
+      order: 10
+      parent: Chokgyur Dechen Lingpa
+    f227B:
+      title: 'The Wish-Fulfilling Tree: The Life Story of the Master of Uḍḍiyāna
+        as found in Padmasambhava’s Sevenfold Cycle of Profundity'
+      base_file: f227B.txt
+      order: 11
+      parent: Chokgyur Dechen Lingpa
+    fE85F:
+      title: Vajrakīla Tsok Prayer from Sangtik Korsum
+      base_file: fE85F.txt
+      order: 12
+      parent: Chokgyur Dechen Lingpa
+    fDB1A:
+      title: Concise Daily Practice of Vajrasattva
+      base_file: fDB1A.txt
+      order: 13
+      parent: Chokgyur Dechen Lingpa
+    f659A:
+      title: Concise Offering of the Body from the Root Text of the Heart Accomplishment
+        of the Guru Tukdrup, The Essential Manual of Oral Instructions (Shaldam Nyingjang)
+      base_file: f659A.txt
+      order: 14
+      parent: Chokgyur Dechen Lingpa
+    fAEEA:
+      title: A Very Brief Prayer for Clearing Obstacles from the Path (Barche Lamsel)
+      base_file: fAEEA.txt
+      order: 15
+      parent: Do Khyentse
+    fEF0E:
+      title: Heart of Vajrasattva—The Heart of Confession, the King of Purification
+        Practices, from 'The Immaculate Secret Vajrasattva'
+      base_file: fEF0E.txt
+      order: 16
+      parent: Do Khyentse
+    fA865:
+      title: 'The Lightning Bolt of Compassion: A Short Prayer that Spontaneously
+        Fulfils All Wishes (Sampa Lhundrupma)'
+      base_file: fA865.txt
+      order: 17
+      parent: Do Khyentse
+    f252D:
+      title: The Recitation for the Gradual Path of the Preliminaries from The Exceedingly
+        Secret, Enlightened Heart-Essence of the Ḍākinī
+      base_file: f252D.txt
+      order: 18
+      parent: Do Khyentse
+    f0A5D:
+      title: 'The Truthful Words of a Sage: An Aspiration Prayer from the Exceedingly
+        Secret, Enlightened Heart-Essence of the Ḍākinī'
+      base_file: f0A5D.txt
+      order: 19
+      parent: Do Khyentse
+    f0159:
+      title: The Prayer to Guru Rinpoche for Attainments
+      base_file: f0159.txt
+      order: 20
+      parent: Dodrupchen Jigme Trinle Özer
+    f45AA:
+      title: 'Summoning the Spirit of Abundance: A Rain of Flowers'
+      base_file: f45AA.txt
+      order: 21
+      parent: Dorje Dechen Lingpa
+    f9882:
+      title: The Biography of the Great Orgyen that Naturally Liberates On Sight
+      base_file: f9882.txt
+      order: 22
+      parent: Dudjom Lingpa
+    f3041:
+      title: A Concise Recitation of the Preliminary Practice according to the New
+        Treasure of Dudjom
+      base_file: f3041.txt
+      order: 23
+      parent: Dudjom Rinpoche
+    f35B8:
+      title: A Prayer to Guru Rinpoche That Spontaneously Fulfils All Wishes (from
+        the Extremely Secret Assembly of Sugatas)
+      base_file: f35B8.txt
+      order: 24
+      parent: Garwang Chökyi Gyaltsen
+    fBDB6:
+      title: 'Accomplishing the Lama through the Seven-Line Prayer: A Special Teaching
+        from the Lama Sangdü'
+      base_file: fBDB6.txt
+      order: 25
+      parent: Guru Chöwang
+    f6501:
+      title: Ārya Mañjuśrī Tantra Garbha
+      base_file: f6501.txt
+      order: 26
+      parent: Guru Chöwang
+    fE660:
+      title: 'Emptying the Hells from their Very Depths: The Sovereign Practice for
+        the Confession of all Impairments and Breakages of Vows and all Negative Actions
+        and Obscurations'
+      base_file: fE660.txt
+      order: 27
+      parent: Guru Chöwang
+    f3B3B:
+      title: 'Meeting the Buddha Face to Face: A Pith Instruction on Realizing the
+        Fortress, Ravine, and View of the Practice of Vajrakīla'
+      base_file: f3B3B.txt
+      order: 28
+      parent: Guru Chöwang
+    fD36A:
+      title: The Dhāraṇīs That Encapsulate the Essence of the Kangyur, the Collected
+        Words of the Buddha
+      base_file: fD36A.txt
+      order: 29
+      parent: Guru Chöwang
+    f84E5:
+      title: 'The Brilliant Essence: The Ritual Manual for the Secret Embodiment of
+        the Guru (Lama Sangdü)'
+      base_file: f84E5.txt
+      order: 30
+      parent: Guru Chöwang
+    f3DDD:
+      title: 'Vajrakīla Prayer: A Rain of Accomplishments'
+      base_file: f3DDD.txt
+      order: 31
+      parent: Gyarong Khandro
+    fAEB3:
+      title: A Means to Pacify the Fear of Natural Disasters
+      base_file: fAEB3.txt
+      order: 32
+      parent: Jamyang Khyentse Chökyi Lodrö
+    fDC51:
+      title: A Brief Prayer to the Precious Master Padmākara for Swiftly Fulfilling
+        Wishes
+      base_file: fDC51.txt
+      order: 33
+      parent: Jamyang Khyentse Wangpo
+    fE143:
+      title: Activities for Uncovering Primordial Wisdom from the Chimé Pakmé Nyingtik,
+        ‘The Heart Essence of the Sublime Lady of Immortality’
+      base_file: fE143.txt
+      order: 34
+      parent: Jamyang Khyentse Wangpo
+    fCA64:
+      title: 'Essence of the Profound Path: A General Visualization for Prayers to
+        Guru Rinpoche'
+      base_file: fCA64.txt
+      order: 35
+      parent: Jamyang Khyentse Wangpo
+    f2347:
+      title: The Single-Form Daily Practice from Chimé Pakmé Nyingtik (The Heart Essence
+        of the Sublime Lady of Immortality)
+      base_file: f2347.txt
+      order: 36
+      parent: Jamyang Khyentse Wangpo
+    fA6A8:
+      title: Maṇḍala Offering from the Tradition of Jatsön Nyingpo
+      base_file: fA6A8.txt
+      order: 37
+      parent: Jatsön Nyingpo
+    fE1AC:
+      title: The Guidebook to the Hidden Land of Pemokö
+      base_file: fE1AC.txt
+      order: 38
+      parent: Jatsön Nyingpo
+    fC3A7:
+      title: A Powerful Pith Instruction to Abstain from Tobacco, the Tenacious Demon
+        Plaguing People of Degenerate Times
+      base_file: fC3A7.txt
+      order: 39
+      parent: Jigdral Tutop Lingpa
+    f50BA:
+      title: 'A Glimpse of the Crucial Points: The Vidyādhara''s Manual of Concealed
+        Instructions'
+      base_file: f50BA.txt
+      order: 40
+      parent: Jigme Lingpa
+    fB127:
+      title: A Glorious Garland of Great Bliss, the Root Sādhana of the Queen of Great
+        Bliss, Yumka Tsogyal, from the Heart Essence of the Vast Expanse
+      base_file: fB127.txt
+      order: 41
+      parent: Jigme Lingpa
+    fB11E:
+      title: A Ritual of Blessing and Empowerment for the Female Practice, from the
+        Heart Essence of the Vast Expanse
+      base_file: fB11E.txt
+      order: 42
+      parent: Jigme Lingpa
+    fBA16:
+      title: A Sādhana of Hayagrīva’s Assembly, from the Heart-Essence of the Vast
+        Expanse
+      base_file: fBA16.txt
+      order: 43
+      parent: Jigme Lingpa
+    fA8F9:
+      title: Awesome Ones’ Assembly (Palchen Düpa), the Heart Practice of the Awareness-Holders
+      base_file: fA8F9.txt
+      order: 44
+      parent: Jigme Lingpa
+    f2C04:
+      title: Brief Prayer of the Feast Gathering
+      base_file: f2C04.txt
+      order: 45
+      parent: Jigme Lingpa
+    f401E:
+      title: Secret Path to the Mountain of Glory—A Prayer of Aspiration for the Copper-Coloured
+        Mountain of Glory
+      base_file: f401E.txt
+      order: 46
+      parent: Jigme Lingpa
+    f2420:
+      title: 'Skull Fragments: The Root Tantra of the Vidyādharas'
+      base_file: f2420.txt
+      order: 47
+      parent: Jigme Lingpa
+    f2312:
+      title: 'The Continuous Shower of Blessings: A Prayer to the Lineage of the Great
+        Perfection’s Heart-Essence of the Vast Expanse (Dzogpachenpo Longchen Nyingtik)'
+      base_file: f2312.txt
+      order: 48
+      parent: Jigme Lingpa
+    f0A8E:
+      title: The History of the Female Practice of the Queen of Great Bliss
+      base_file: f0A8E.txt
+      order: 49
+      parent: Jigme Lingpa
+    fC200:
+      title: The Prayer of the Ground, Path & Fruition – From the Heart-Essence of
+        the Vast Expanse
+      base_file: fC200.txt
+      order: 50
+      parent: Jigme Lingpa
+    fA896:
+      title: The Root Empowerment of the Vase Conferring Majesty from the Heart-Essence
+        of the Vast Expanse
+      base_file: fA896.txt
+      order: 51
+      parent: Jigme Lingpa
+    f6DCE:
+      title: The Secret Practice of the Great Compassionate One, Natural Liberation
+        of Suffering
+      base_file: f6DCE.txt
+      order: 52
+      parent: Jigme Lingpa
+    f5ADF:
+      title: The Spontaneous Vajra Song of Fulfilment and Confession
+      base_file: f5ADF.txt
+      order: 53
+      parent: Jigme Lingpa
+    fB564:
+      title: 'The Treasury of the Four Activities: A Fire Offering to Yumka'
+      base_file: fB564.txt
+      order: 54
+      parent: Jigme Lingpa
+    fCD7F:
+      title: 'The Vase of Immortal Life: The Long-Life Practice of the Vidyādharas,
+        from the Heart Essence of the Vast Expanse'
+      base_file: fCD7F.txt
+      order: 55
+      parent: Jigme Lingpa
+    f31FA:
+      title: The Vidyādhara Assembly (Rigdzin Düpa), the Inner Practice from the Heart
+        Essence of the Vast Expanse
+      base_file: f31FA.txt
+      order: 56
+      parent: Jigme Lingpa
+    fA488:
+      title: 'The Words of the Awesome Ones: A General Overview of the Three Yogas
+        from the Heart-Essence of the Vast Expanse'
+      base_file: fA488.txt
+      order: 57
+      parent: Jigme Lingpa
+    fAAF9:
+      title: 'Transference: Enlightenment Without Meditation (root text)'
+      base_file: fAAF9.txt
+      order: 58
+      parent: Jigme Lingpa
+    f5577:
+      title: Vajra Verses on the Natural State
+      base_file: f5577.txt
+      order: 59
+      parent: Jigme Lingpa
+    f42B3:
+      title: 'Highway of the Great Yoga: A Daily Practice for the Peaceful and Wrathful
+        Deities of the Self-Liberated Wisdom Mind'
+      base_file: f42B3.txt
+      order: 60
+      parent: Karma Lingpa
+    f6EC0:
+      title: The Benefits of the Vajra Guru Mantra and an Explanation of Its Syllables
+      base_file: f6EC0.txt
+      order: 61
+      parent: Karma Lingpa
+    f118C:
+      title: The Root Verses on the Six Bardos
+      base_file: f118C.txt
+      order: 62
+      parent: Karma Lingpa
+    f10A8:
+      title: A Sādhana of Kurukullā from the Tidro Dharma Cycle
+      base_file: f10A8.txt
+      order: 63
+      parent: Khenchen Jigme Phuntsok
+    fDA5B:
+      title: 'Accomplishing All Activity: A Daily Practice of the Great and Glorious
+        Dorje Drolö'
+      base_file: fDA5B.txt
+      order: 64
+      parent: Khenchen Jigme Phuntsok
+    f8E87:
+      title: Mountain Smoke Offering from The Life-Force Practice of the Vidyādharas
+      base_file: f8E87.txt
+      order: 65
+      parent: Lhatsün Namkha Jigme
+    fFDA6:
+      title: Maṇḍala Offering from Longsal Dorje Nyingpo
+      base_file: fFDA6.txt
+      order: 66
+      parent: Longsal Nyingpo
+    f8917:
+      title: 'Liberation Upon Hearing: The History of the Great Jarung Kashor Stūpa'
+      base_file: f8917.txt
+      order: 67
+      parent: Ngakchang Shakya Zangpo
+    f7EEB:
+      title: The Sovereign of Confessions for all Impairments and Breakages, Extracted
+        from the Rampant Elephant Tantra
+      base_file: f7EEB.txt
+      order: 68
+      parent: Nyala Pema Dündul
+    f72CB:
+      title: A Prayer Recalling the Life and Liberation of the Precious Master Padmasambhava
+      base_file: f72CB.txt
+      order: 69
+      parent: Nyang Ral Nyima Özer
+    fE7A3:
+      title: The Abbreviated Prayer in Seven Chapters
+      base_file: fE7A3.txt
+      order: 70
+      parent: Nyang Ral Nyima Özer
+    fFDBA:
+      title: The Pointing-the-Staff Instruction
+      base_file: fFDBA.txt
+      order: 71
+      parent: Nyang Ral Nyima Özer
+    f9243:
+      title: A Concise History of Orgyen Padma’s Enlightened Deeds
+      base_file: f9243.txt
+      order: 72
+      parent: Orgyen Lingpa
+    fEC20:
+      title: Yeshe Tsogyal's Prayer
+      base_file: fEC20.txt
+      order: 73
+      parent: Pema Lingpa
+    f71F9:
+      title: Aspiration Prayer from Tārā Sādhana
+      base_file: f71F9.txt
+      order: 74
+      parent: Ratna Lingpa
+    fF777:
+      title: The Powerful Prayer of Aspiration from the Tantra of the Great Perfection
+        that Reveals the All-Penetrating Wisdom Mind of Samantabhadra (Kunzang Mönlam)
+      base_file: fF777.txt
+      order: 75
+      parent: Rigdzin Gödem
+    fAA90:
+      title: 'The Wish-Fulfilling Jewel: A Daily Sādhana of the Noble Avalokiteśvara'
+      base_file: fAA90.txt
+      order: 76
+      parent: Rigdzin Gödem
+    f4A72:
+      title: 'Marmé Mönlam: The Light Offering Prayer'
+      base_file: f4A72.txt
+      order: 77
+      parent: Rigdzin Nyima Drakpa
+    fD861:
+      title: A Prayer Recounting the Lives and Liberation of the Exalted Ḍākinī Mandāravā
+      base_file: fD861.txt
+      order: 78
+      parent: Samten Lingpa
+    fA2D8:
+      title: A Concise Meditation and Mantra Recitation of Sarasvatī from the Heart
+        Essence of the Ḍākinī of Suchness (Chönyi Khandrö Tuktik)
+      base_file: fA2D8.txt
+      order: 79
+      parent: Sera Khandro
+    f9477:
+      title: 'The Profound Bestowal of Blessings: A Sādhana of Dorje Drolö from the
+        Reality Ḍākinīs'' Secret Treasury (Chönyi Khandrö Sangdzö)'
+      base_file: f9477.txt
+      order: 80
+      parent: Sera Khandro
+    f88B5:
+      title: Dispeller of All Samaya Corruptions and Pollutions
+      base_file: f88B5.txt
+      order: 81
+      parent: Sherab Özer
+    fAE8A:
+      title: Brief Sukhāvatī Aspiration
+      base_file: fAE8A.txt
+      order: 82
+      parent: Tertön Mingyur Dorje
+    fE1B5:
+      title: Dedication from Vajravārāhī Cycle of Namchö revealed by Mingyur Dorje
+      base_file: fE1B5.txt
+      order: 83
+      parent: Tertön Mingyur Dorje
+    f22AB:
+      title: Prayer to Behold Amitābha in Dreams
+      base_file: f22AB.txt
+      order: 84
+      parent: Tertön Mingyur Dorje
+    f76C1:
+      title: 'Inventory: The Perfectly Clear Mirror from the Razor of the Innermost
+        Essence'
+      base_file: f76C1.txt
+      order: 85
+      parent: Tertön Sogyal
+    f2417:
+      title: Sādhana of Mañjughoṣa
+      base_file: f2417.txt
+      order: 86
+      parent: Tertön Sogyal
+    fEC1B:
+      title: 'The Falling Rain of Blessings: A Prayer of Inspiration'
+      base_file: fEC1B.txt
+      order: 87
+      parent: Tertön Sogyal
+    f887C:
+      title: The Guru Yoga of the Profound Path
+      base_file: f887C.txt
+      order: 88
+      parent: Tertön Sogyal
+    f218C:
+      title: The Method to Pacify All Epidemics, Illnesses and Pandemics from the
+        Sixty Solitary Forms of Yamāntaka
+      base_file: f218C.txt
+      order: 89
+      parent: Tertön Sogyal
+    f1DB8:
+      title: The Summoning of Blessings which Brings them Swift and Fast
+      base_file: f1DB8.txt
+      order: 90
+      parent: Tertön Sogyal
+    f05CA:
+      title: 'The Swift Path to Great Bliss: A Sādhana of Amitābha, Buddha of Limitless
+        Light'
+      base_file: f05CA.txt
+      order: 91
+      parent: Tertön Sogyal
+    fD359:
+      title: The Wisdom Mind Practice of One Kīla
+      base_file: fD359.txt
+      order: 92
+      parent: Tertön Sogyal
+    fD693:
+      title: 'Le''u Dünma—Chapter 1: The Prayer to the Three Kāya Guru'
+      base_file: fD693.txt
+      order: 93
+      parent: Tulku Zangpo Drakpa
+    f3633:
+      title: 'Le''u Dünma—Chapter 2: The Prayer Requested by King Tri Songdetsen'
+      base_file: f3633.txt
+      order: 94
+      parent: Tulku Zangpo Drakpa
+    f891C:
+      title: 'Le''u Dünma—Chapter 3: The Prayer Requested by Khandro Yeshe Tsogyal'
+      base_file: f891C.txt
+      order: 95
+      parent: Tulku Zangpo Drakpa
+    f585F:
+      title: 'Le''u Dünma—Chapter 4: The Prayer Requested by Namkhe Nyingpo'
+      base_file: f585F.txt
+      order: 96
+      parent: Tulku Zangpo Drakpa
+    f78B8:
+      title: 'Le''u Dünma—Chapter 5: The Prayer Requested by Nanam Dorje Dudjom'
+      base_file: f78B8.txt
+      order: 97
+      parent: Tulku Zangpo Drakpa
+    fD373:
+      title: 'Le''u Dünma—Chapter 6: The Prayer Requested by Prince Mutri Tsenpo'
+      base_file: fD373.txt
+      order: 98
+      parent: Tulku Zangpo Drakpa
+    fFC39:
+      title: Le'u Dünma—Chapter 7. The Prayer to Guru Rinpoche that Spontaneously
+        Fulfills All Wishes (Sampa Lhundrupma)
+      base_file: fFC39.txt
+      order: 99
+      parent: Tulku Zangpo Drakpa
+    fA9A4:
+      title: The Means for Accomplishment called the Blazing Wheel
+      base_file: fA9A4.txt
+      order: 100
+      parent: Tulku Zangpo Drakpa
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
